@@ -1,6 +1,6 @@
 # Shopping Cart
 
-## Hoisted Link 👇
+## Hosted Link 👇
 
 [Shopping Cart Link](https://ugamraj.github.io/Shopping-Cart/)
 
